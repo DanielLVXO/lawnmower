@@ -5,7 +5,7 @@ import lawnmover_menu as menu
 
 
 def main():
-    map_loaded = True
+    map_loaded = False
     menu.print_menu(0,map_loaded)
 
 
